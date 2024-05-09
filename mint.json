@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Promptate 文档",
+  "name": "Promptate",
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
@@ -39,9 +39,23 @@
       "pages": [
         "workspace/index",
         "workspace/startup",
-        "workspace/chatbot",
         "workspace/optimize",
         "workspace/test"
+      ]
+    },
+    {
+      "group": "生成器",
+      "pages": [
+        "generator/index",
+        "generator/chatgpt",
+        "generator/midjourney"
+      ]
+    },
+    {
+      "group": "社区",
+      "pages": [
+        "community/index",
+        "community/share"
       ]
     }
   ]

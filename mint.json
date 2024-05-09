@@ -44,6 +44,12 @@
       ]
     },
     {
+      "group": "智能助手",
+      "pages": [
+        "assistant/index"
+      ]
+    },
+    {
       "group": "生成器",
       "pages": [
         "generator/index",
